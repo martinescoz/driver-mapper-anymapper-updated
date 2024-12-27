@@ -216,4 +216,3 @@ namespace anymapper
 
 		printf( "[+] payload sent to 0x%p\n", kbuffer );
 
-		co
