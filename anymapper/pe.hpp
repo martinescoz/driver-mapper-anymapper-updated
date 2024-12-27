@@ -23,4 +23,4 @@ namespace pe
 		pe( void* image_buffer );
 		~pe();
 
-		bool fix_sections( vo
+		bool fix_sections
