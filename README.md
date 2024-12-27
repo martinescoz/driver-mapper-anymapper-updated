@@ -3,4 +3,4 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/workflow/status/kkent030315/anymapper/MSB
+<img src="https://img.shields.io/github/workflow/status/kkent030315/anymapper
