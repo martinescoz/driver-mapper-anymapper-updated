@@ -5,4 +5,4 @@
 
 namespace filebuf
 {
-	bool copy_file_to_buffer( const s
+	bool copy_file_to_buffer( con
