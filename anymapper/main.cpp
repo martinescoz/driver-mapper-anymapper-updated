@@ -41,4 +41,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 
 	if ( !libanycall::init( "ntdll.dll", "NtTraceControl" ) )
 	{
-		printf( "[!] failed to 
+		printf( "[!] failed
