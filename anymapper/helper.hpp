@@ -17,4 +17,4 @@ namespace helper
 		delete[] wszTo;
 		return wstrTo;
 	}
-} // namespace helper
+} // namespace he
