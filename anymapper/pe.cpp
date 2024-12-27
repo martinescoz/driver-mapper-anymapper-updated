@@ -149,4 +149,3 @@ bool pe::pe::resolve_imports(
 			const bool result = pre_callback( module_name );
 
 			if ( !result && ret_on_pre_fail )
-				
