@@ -200,4 +200,4 @@ namespace anymapper
 
 		printf( "[+] resolving imports...\n" );
 
-		if ( !PE.r
+		if ( !
