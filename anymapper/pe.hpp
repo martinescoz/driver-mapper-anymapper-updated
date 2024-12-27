@@ -18,4 +18,3 @@ namespace pe
 		void* image_base;
 		std::size_t image_size;
 		PIMAGE_DOS_HEADER pdos_header;
-		P
