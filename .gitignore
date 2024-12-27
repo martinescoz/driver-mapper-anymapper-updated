@@ -279,4 +279,4 @@ node_modules/
 *.plg
 
 # Visual Studio 6 workspace options file
-*.opt
+*
