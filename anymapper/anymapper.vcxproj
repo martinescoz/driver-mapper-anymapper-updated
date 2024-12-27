@@ -122,4 +122,4 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Re
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=
