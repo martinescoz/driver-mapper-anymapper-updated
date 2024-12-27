@@ -239,4 +239,4 @@ namespace anymapper
 			kernel::find_routine_address( L"RtlInitUnicodeString" );
 
 		printf( "[+] RtlInitUnicodeString @ 0x%llX\n",
-			RtlIni
+			Rt
