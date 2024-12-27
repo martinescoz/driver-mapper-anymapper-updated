@@ -40,4 +40,4 @@ namespace kernel
 	inline void* ntoskrnl_memcpy = {};
 
 	//
-	// memcpy of kernel virtual m
+	// memcpy of kernel virtu
