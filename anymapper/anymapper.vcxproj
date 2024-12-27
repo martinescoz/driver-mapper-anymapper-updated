@@ -154,4 +154,4 @@
     <ClInclude Include="nt.hpp" />
     <ClInclude Include="pe.hpp" />
   </ItemGroup>
-  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"
