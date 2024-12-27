@@ -151,4 +151,4 @@
     <ClInclude Include="filebuf.hpp" />
     <ClInclude Include="helper.hpp" />
     <ClInclude Include="kernel.hpp" />
-    <ClInclude 
+    <ClIncl
