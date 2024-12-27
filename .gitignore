@@ -285,4 +285,4 @@ node_modules/
 *.vbw
 
 # Visual Studio LightSwitch build output
-**/*.HTMLCli
+**/*.HTM
