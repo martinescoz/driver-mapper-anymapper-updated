@@ -138,5 +138,4 @@ bool pe::pe::resolve_imports(
 			( uint64_t )pdos_header + base_import );
 
 	while ( import_entry->FirstThunk )
-	{
-		
+	
