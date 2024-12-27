@@ -155,4 +155,4 @@
     <ClInclude Include="pe.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
-  <ImportGroup Label="ExtensionTarge
+  <ImportGroup Label="ExtensionT
