@@ -187,4 +187,3 @@ bool pe::pe::resolve_imports(
 	return true;
 }
 
-bool
