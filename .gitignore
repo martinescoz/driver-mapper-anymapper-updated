@@ -253,4 +253,4 @@ ServiceFabricBackup/
 
 # SQL Server files
 *.mdf
-*.ldf
+*
