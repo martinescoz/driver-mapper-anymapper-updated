@@ -16,4 +16,4 @@ namespace filebuf
 			return false;
 
 		buffer.assign( 
-			std::istreamb
+			std::istr
