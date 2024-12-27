@@ -215,4 +215,3 @@ bool pe::pe::is_64bit_image() const noexcept
 
 bool pe::pe::valid_ptr( void* ptr ) const
 {
-	// 
