@@ -34,4 +34,4 @@
 namespace kernel
 {
 	//
-	// this pointer ho
+	// this pointe
