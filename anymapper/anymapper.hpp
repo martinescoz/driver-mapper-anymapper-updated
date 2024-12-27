@@ -256,4 +256,4 @@ namespace anymapper
 		ANYCALL_INVOKE( ExFreePool, kbuffer );
 		return true;
 	}
-} // namespace a
+} // namespa
