@@ -21,5 +21,4 @@ namespace filebuf
 		
 		fstream.close();
 		return true;
-	}
-} 
+	
