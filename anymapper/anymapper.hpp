@@ -237,5 +237,3 @@ namespace anymapper
 
 		const auto RtlInitUnicodeString = 
 			kernel::find_routine_address( L"RtlInitUnicodeString" );
-
-		
