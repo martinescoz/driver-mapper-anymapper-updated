@@ -5,4 +5,4 @@
 
 namespace filebuf
 {
-	bool copy_file_to_buffer(
+	bool copy_file_to_buf
