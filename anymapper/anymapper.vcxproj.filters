@@ -32,5 +32,4 @@
     <ClInclude Include="nt.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pe.hpp">
- 
+    <ClInclude Include="pe.hpp
