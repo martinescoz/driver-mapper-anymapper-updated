@@ -39,5 +39,4 @@ namespace kernel
 	//
 	inline void* ntoskrnl_memcpy = {};
 
-	//
 	/
