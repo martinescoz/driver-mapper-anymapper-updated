@@ -175,4 +175,3 @@ bool pe::pe::resolve_imports(
 
 				if ( !result && ret_on_post_fail )
 					return result;
-			
