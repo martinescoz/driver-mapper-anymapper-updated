@@ -14,5 +14,3 @@ namespace filebuf
 
 		if ( !fstream )
 			return false;
-
-		
