@@ -221,4 +221,4 @@ namespace anymapper
 
 		const auto entry_point_addr = 
 			( uint64_t )kbuffer +
-			( uint64_t )entry_point_rva - 0
+			( uint64_t )entry_point_rva
