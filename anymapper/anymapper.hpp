@@ -244,4 +244,4 @@ namespace anymapper
 		//
 		// invoke driver's entry point
 		//
-		const NTSTATUS nt_status
+		const NTSTATUS nt_st
