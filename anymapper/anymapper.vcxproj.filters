@@ -37,4 +37,3 @@
     </ClInclude>
     <ClInclude Include="kernel.hpp">
       <Filter>Header Files</Filter>
-   
