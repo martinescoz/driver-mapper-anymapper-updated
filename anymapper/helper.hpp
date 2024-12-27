@@ -15,4 +15,4 @@ namespace helper
 		MultiByteToWideChar( CP_ACP, 0, str.c_str(), -1, wszTo, ( int )str.length() );
 		wstrTo = wszTo;
 		delete[] wszTo;
-		return wstr
+		return 
