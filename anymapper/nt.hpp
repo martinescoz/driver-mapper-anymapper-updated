@@ -50,4 +50,4 @@ typedef enum _POOL_TYPE
 	NonPagedPoolMustSucceed = NonPagedPool + 2,
 	DontUseThisType,
 	NonPagedPoolCacheAligned = NonPagedPool + 4,
-	PagedPool
+	Paged
