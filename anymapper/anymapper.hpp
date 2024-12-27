@@ -251,5 +251,3 @@ namespace anymapper
 				( PVOID )RtlInitUnicodeString );    // usually RegistryPath but we don't use
 
 		printf( "[+] DriverEntry returned 0x%lx\n", nt_status );
-
-		
