@@ -5,4 +5,4 @@
 
 namespace filebuf
 {
-	bool copy_file_to_buffer( const std::wstring_
+	bool copy_file_to_buffer( const std::wstr
