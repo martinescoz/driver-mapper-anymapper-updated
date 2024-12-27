@@ -24,4 +24,4 @@
 
 */
 
-#pragma o
+#prag
