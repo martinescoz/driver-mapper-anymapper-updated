@@ -122,4 +122,4 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x6
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Releas
