@@ -210,4 +210,4 @@ bool pe::pe::is_nt_headers_valid() const noexcept
 
 bool pe::pe::is_64bit_image() const noexcept
 {
-	return pnt_headers->OptionalHeader.Magic == IMAGE_NT_OPTIONAL_HDR6
+	return pnt_headers->OptionalHeader.Magic == IMAGE_NT_OPTIONAL_
