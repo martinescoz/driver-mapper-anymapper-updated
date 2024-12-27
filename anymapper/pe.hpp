@@ -9,4 +9,4 @@ namespace pe
 	{
 	public:
 		using pre_callback_t = bool( * )( std::string_view module_name );
-		using post_callb
+		using post_c
