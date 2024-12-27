@@ -314,4 +314,4 @@ __pycache__/
 *.tss
 
 # Telerik's JustMock configuration file
-*.jmc
+*
