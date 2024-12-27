@@ -121,5 +121,4 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
-  </ItemDefinitionGroup>
- 
+  </ItemDefinitionGrou
