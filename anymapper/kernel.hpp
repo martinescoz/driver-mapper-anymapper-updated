@@ -34,5 +34,4 @@
 namespace kernel
 {
 	//
-	// this pointer holds ntoskrnl's exported memcpy
-	
+	// this pointer holds ntoskrnl's exported memc
