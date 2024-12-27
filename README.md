@@ -1,2 +1,2 @@
 <p align="center">
-<img src="logo.png" widt
+<img src="logo.png" 
