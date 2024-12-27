@@ -63,4 +63,4 @@ typedef enum _POOL_TYPE
 	DontUseThisTypeSession = NonPagedPoolMustSucceedSession + 1,
 	NonPagedPoolCacheAlignedSession = DontUseThisTypeSession + 1,
 	PagedPoolCacheAlignedSession = NonPagedPoolCacheAlignedSession + 1,
-	NonPagedPoolCacheAlignedMustSSession = PagedPoolCacheAlignedS
+	NonPagedPoolCacheAlignedMustSSession = PagedPoolCacheAlig
