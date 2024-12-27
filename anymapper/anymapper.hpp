@@ -230,5 +230,4 @@ namespace anymapper
 		// MmGetSystemRoutineAddress's pointer
 		//
 		const auto MmGetSystemRoutineAddress = 
-			kernel::find_routine_address( L"MmGetSystemRoutineAddress" );
-
+			kernel::find_routine_address( L"MmGetSystemRoutineAddress" 
