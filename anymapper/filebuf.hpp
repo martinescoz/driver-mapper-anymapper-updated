@@ -13,4 +13,4 @@ namespace filebuf
 		std::ifstream fstream( file_path, std::ios::binary );
 
 		if ( !fstream )
-			return false;
+			return fa
