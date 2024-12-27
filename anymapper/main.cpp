@@ -29,4 +29,4 @@
 
 #include "anymapper.hpp"
 
-int wmain( int
+int wmain(
