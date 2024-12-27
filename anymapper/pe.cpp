@@ -167,5 +167,4 @@ bool pe::pe::resolve_imports(
 					( uint64_t )pdos_header + first_thunk_original->u1.AddressOfData );
 
 			if ( post_callback )
-			{
-		
+			
