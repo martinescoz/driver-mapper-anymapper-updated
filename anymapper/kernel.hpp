@@ -43,4 +43,4 @@ namespace kernel
 	// memcpy of kernel virtual memory
 	// invoke memcpy inside ntoskrnl
 	//
-	void memcpy( void* dst, void* src, size_t size 
+	void memcpy( void* dst, void* src, size_t s
