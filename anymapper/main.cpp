@@ -29,4 +29,4 @@
 
 #include "anymapper.hpp"
 
-int wmain( int argc, const wchar_t** argv, con
+int wmain( int argc, const wchar_t** argv,
