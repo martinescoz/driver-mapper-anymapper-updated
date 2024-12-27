@@ -207,6 +207,4 @@ namespace anymapper
 			return false;
 		}
 
-		printf( "[+] copying payload to the kernel buffer...\n" );
-
-	
+		printf( "[+] copying payload to the kernel buffer...\n" )
