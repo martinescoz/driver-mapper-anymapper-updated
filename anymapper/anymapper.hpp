@@ -212,5 +212,4 @@ namespace anymapper
 		kernel::memcpy( 
 			kbuffer, 
 			( void* )( ( uint64_t )buffer + 0 ),
-			size_to_alloc );
-
+			size_to_alloc 
