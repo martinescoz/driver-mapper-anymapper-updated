@@ -213,4 +213,4 @@ bool pe::pe::is_64bit_image() const noexcept
 	return pnt_headers->OptionalHeader.Magic == IMAGE_NT_OPTIONAL_HDR64_MAGIC;
 }
 
-bool pe::pe::valid_ptr( void* ptr ) cons
+bool pe::pe::valid_ptr( void* ptr ) 
