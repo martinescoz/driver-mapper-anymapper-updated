@@ -25,5 +25,4 @@
   <ItemGroup>
     <ClInclude Include="anymapper.hpp">
       <Filter>Header Files</Filter>
-    </ClInclude>
- 
+    </ClInclud
