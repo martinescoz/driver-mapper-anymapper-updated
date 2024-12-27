@@ -38,5 +38,4 @@ namespace pe
 
 		bool valid_ptr( void* ptr ) const;
 	private:
-	};
-}
+	
