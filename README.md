@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 Windows kernel driver mapper, inject unsigned dri
+x64 Windows kernel driver mapper, inject unsigned
