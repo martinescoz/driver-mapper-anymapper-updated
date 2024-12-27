@@ -11,5 +11,3 @@ namespace filebuf
 			return false;
 
 		std::ifstream fstream( file_path, std::ios::binary );
-
-		
