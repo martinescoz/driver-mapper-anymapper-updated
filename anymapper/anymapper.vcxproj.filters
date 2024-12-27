@@ -38,4 +38,4 @@
     <ClInclude Include="kernel.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include
+    <ClInclude Inc
