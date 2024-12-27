@@ -20,4 +20,4 @@ namespace filebuf
 			std::istreambuf_iterator<char>() );
 		
 		fstream.close();
-		return
+		re
