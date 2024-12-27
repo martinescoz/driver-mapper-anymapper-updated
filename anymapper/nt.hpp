@@ -78,4 +78,4 @@ using ExAllocatePoolWithTag =
 using ExFreePool =
 	void( __fastcall* )( PVOID );
 
-using DriverEntry 
+using DriverEn
