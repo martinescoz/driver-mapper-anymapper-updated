@@ -54,4 +54,4 @@ namespace kernel
 	}
 
 	//
-	// find system routine by MmG
+	// find system routine by
