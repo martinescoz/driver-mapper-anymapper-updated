@@ -39,4 +39,4 @@ namespace pe
 		bool valid_ptr( void* ptr ) const;
 	private:
 	};
-} // namespace pe
+} // namespac
