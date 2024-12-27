@@ -8,4 +8,4 @@ namespace pe
 	class pe
 	{
 	public:
-		using pre_callback_t = bool( * )( st
+		using pre_callback_t = bool( * )
