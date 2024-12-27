@@ -143,4 +143,4 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile In
+    <ClCompil
