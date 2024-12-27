@@ -31,4 +31,4 @@
 
 #pragma comment( lib, "ntdll.lib" ) // RtlInitUnicodeString
 
-namesp
+na
