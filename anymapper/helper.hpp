@@ -10,4 +10,4 @@ namespace helper
 	std::wstring s2ws( const std::string& str )
 	{
 		std::wstring wstrTo;
-		wchar_t* wszTo = new wc
+		wchar_t* wszTo = ne
