@@ -153,4 +153,4 @@ bool pe::pe::resolve_imports(
 		}
 
 		auto first_thunk =
-			reinterpret_
+			reinterp
