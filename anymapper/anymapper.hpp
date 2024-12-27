@@ -207,4 +207,4 @@ namespace anymapper
 			return false;
 		}
 
-		printf( "[+] copying payload to t
+		printf( "[+] copying payload 
