@@ -285,5 +285,4 @@ node_modules/
 *.vbw
 
 # Visual Studio LightSwitch build output
-**/*.HTMLClient/GeneratedArtifacts
-*
+**/*.HTMLClient/GeneratedArtifac
