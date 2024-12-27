@@ -187,4 +187,4 @@ bool pe::pe::resolve_imports(
 	return true;
 }
 
-bool pe::pe::valid() const noexc
+bool pe::pe::valid() const n
