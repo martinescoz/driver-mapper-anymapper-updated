@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 Windows kernel dr
+x64 Windows kerne
