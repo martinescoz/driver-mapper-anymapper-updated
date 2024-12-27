@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 Windows k
+x64 Windo
