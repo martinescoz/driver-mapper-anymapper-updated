@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 Windows kernel driver mapper, inj
+x64 Windows kernel driver mapper,
