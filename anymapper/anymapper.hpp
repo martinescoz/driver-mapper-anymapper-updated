@@ -211,4 +211,4 @@ namespace anymapper
 
 		kernel::memcpy( 
 			kbuffer, 
-			( void* )( ( uint6
+			( void* )( ( u
