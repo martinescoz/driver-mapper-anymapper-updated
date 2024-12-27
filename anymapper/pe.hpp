@@ -36,4 +36,3 @@ namespace pe
 		bool is_nt_headers_valid() const noexcept;
 		bool is_64bit_image() const noexcept;
 
-		bo
