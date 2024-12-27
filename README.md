@@ -1,2 +1,2 @@
 <p align="center">
-<img src="logo.p
+<img src="lo
