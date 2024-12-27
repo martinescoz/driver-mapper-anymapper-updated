@@ -29,5 +29,3 @@
 #include <winternl.h>
 
 typedef LARGE_INTEGER PHYSICAL_ADDRESS;
-
-typ
