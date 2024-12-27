@@ -35,4 +35,4 @@ namespace kernel
 {
 	//
 	// this pointer holds ntoskrnl's exported memcpy
-	// not rva, absolute address
+	// not rva, absolute add
