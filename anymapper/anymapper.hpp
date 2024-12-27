@@ -256,4 +256,3 @@ namespace anymapper
 		ANYCALL_INVOKE( ExFreePool, kbuffer );
 		return true;
 	}
-} //
