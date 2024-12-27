@@ -2,6 +2,4 @@
 
 	MIT License
 
-	Copyright (c) 2021 Kento Oki
-
-	
+	Copyright (c) 2021 Kento Ok
