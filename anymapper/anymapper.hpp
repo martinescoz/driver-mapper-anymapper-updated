@@ -245,4 +245,4 @@ namespace anymapper
 		// invoke driver's entry point
 		//
 		const NTSTATUS nt_status =
-			libanycall
+			libany
