@@ -54,4 +54,4 @@ namespace kernel
 	}
 
 	//
-	// find system routine by MmGetSystemRoutineAddre
+	// find system routine by MmGetSystemRoutineA
