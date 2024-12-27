@@ -45,4 +45,4 @@ namespace kernel
 	//
 	void memcpy( void* dst, void* src, size_t size )
 	{
-		if ( !ntoskrn
+		if ( !nto
