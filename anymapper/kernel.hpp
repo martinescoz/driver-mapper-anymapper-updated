@@ -54,4 +54,4 @@ namespace kernel
 	}
 
 	//
-	// find system ro
+	// find syste
