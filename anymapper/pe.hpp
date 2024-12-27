@@ -32,4 +32,4 @@ namespace pe
 			bool ret_on_post_fail ) const noexcept;
 
 		bool valid() const noexcept;
-		bool is_dos_heade
+		bool is_dos_h
