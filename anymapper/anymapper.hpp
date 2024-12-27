@@ -243,4 +243,3 @@ namespace anymapper
 
 		//
 		// invoke driver's entry point
-		/
