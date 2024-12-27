@@ -241,4 +241,4 @@ namespace anymapper
 		printf( "[+] RtlInitUnicodeString @ 0x%llX\n",
 			RtlInitUnicodeString );
 
-		//
+	
