@@ -138,4 +138,4 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>libanycall64.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      
+  
