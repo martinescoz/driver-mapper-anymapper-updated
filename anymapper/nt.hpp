@@ -79,4 +79,4 @@ using ExFreePool =
 	void( __fastcall* )( PVOID );
 
 using DriverEntry =
-	NTSTATUS( __fastc
+	NTSTATUS( __f
