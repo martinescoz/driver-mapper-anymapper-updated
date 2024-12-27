@@ -60,4 +60,3 @@ typedef enum _POOL_TYPE
 	NonPagedPoolSession = 32,
 	PagedPoolSession = NonPagedPoolSession + 1,
 	NonPagedPoolMustSucceedSession = PagedPoolSession + 1,
-	Don
