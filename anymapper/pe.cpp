@@ -204,5 +204,3 @@ bool pe::pe::is_nt_headers_valid() const noexcept
 {
 	if ( !pnt_headers )
 		return false;
-
-	re
