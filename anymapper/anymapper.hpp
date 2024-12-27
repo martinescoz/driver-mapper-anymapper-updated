@@ -229,4 +229,4 @@ namespace anymapper
 		//
 		// MmGetSystemRoutineAddress's pointer
 		//
-		const auto MmGetSystemRoutineAddress =
+		const auto MmGetSystemRoutineAddre
