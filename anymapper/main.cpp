@@ -31,5 +31,4 @@
 
 int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 {
-	if ( argc < 2 )
-	
+	if ( argc < 2
