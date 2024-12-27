@@ -228,4 +228,4 @@ namespace anymapper
 
 		//
 		// MmGetSystemRoutineAddress's pointer
-		//
+	
