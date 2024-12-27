@@ -220,4 +220,4 @@ namespace anymapper
 			PE.pnt_headers->OptionalHeader.AddressOfEntryPoint;
 
 		const auto entry_point_addr = 
-			( uint64_t )
+			( uint64
