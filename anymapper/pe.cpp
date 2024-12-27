@@ -157,5 +157,4 @@ bool pe::pe::resolve_imports(
 				( uint64_t )pdos_header + import_entry->FirstThunk );
 
 		auto first_thunk_original =
-			reinterpret_cast< PIMAGE_THUNK_DATA64 >(
-		
+			reinterpret_cast< PIMAGE_THUNK_DATA64 >
