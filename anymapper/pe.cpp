@@ -164,4 +164,4 @@ bool pe::pe::resolve_imports(
 		{
 			auto thunk_data =
 				reinterpret_cast< PIMAGE_IMPORT_BY_NAME >(
-					( uint64_t )pdos_hea
+					( uint64_t )pdos
