@@ -29,4 +29,4 @@
 
 #include "../anycall/libanycall/libanycall.h"
 
-#pragma comment( lib, "ntdll.lib" ) // 
+#pragma comment( lib, "ntdll.lib" )
