@@ -182,6 +182,4 @@ bool pe::pe::resolve_imports(
 		}
 
 		import_entry++;
-	}
-
 	
