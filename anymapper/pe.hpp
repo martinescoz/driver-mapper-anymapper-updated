@@ -17,4 +17,3 @@ namespace pe
 
 		void* image_base;
 		std::size_t image_size;
-		PI
