@@ -170,4 +170,4 @@ bool pe::pe::resolve_imports(
 			{
 				const bool result = post_callback(
 					module_name,
-					&first_thunk_original->u1.Functi
+					&first_thunk_original->u1.Fu
