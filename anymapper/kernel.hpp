@@ -56,4 +56,4 @@ namespace kernel
 	//
 	// find system routine by MmGetSystemRoutineAddress
 	//
-	uint64_t fin
+	uint64_t
