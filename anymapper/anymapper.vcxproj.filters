@@ -29,4 +29,4 @@
     <ClInclude Include="..\..\anycall\libanycall\libanycall.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="nt.hpp">
+    <ClInclude Include="nt.h
