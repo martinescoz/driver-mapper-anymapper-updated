@@ -40,4 +40,4 @@ typedef enum _MEMORY_CACHING_TYPE
 	MmUSWCCached,
 	MmMaximumCacheType,
 	MmNotMapped
-} MEMORY_CACHING_
+} MEMORY_CACH
