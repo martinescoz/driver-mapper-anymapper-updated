@@ -28,5 +28,3 @@
 #include <windows.h>
 
 #include "../anycall/libanycall/libanycall.h"
-
-#pr
