@@ -56,4 +56,4 @@ namespace kernel
 	//
 	// find system routine by MmGetSystemRoutineAddress
 	//
-	uint64_t find_routine_address( const
+	uint64_t find_routine_address( c
