@@ -187,4 +187,4 @@ bool pe::pe::resolve_imports(
 	return true;
 }
 
-bool pe::pe::valid() con
+bool pe::pe::valid()
