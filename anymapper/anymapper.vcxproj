@@ -118,5 +118,4 @@
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
-  
+      <SubSystem>Console</SubSystem
