@@ -48,4 +48,4 @@ typedef enum _POOL_TYPE
 	NonPagedPoolExecute = NonPagedPool,
 	PagedPool,
 	NonPagedPoolMustSucceed = NonPagedPool + 2,
-	DontUseThisTy
+	DontUseTh
