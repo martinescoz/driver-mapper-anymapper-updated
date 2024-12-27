@@ -52,5 +52,3 @@ namespace kernel
 		libanycall::invoke<decltype( &memcpy )>
 			( ntoskrnl_memcpy, dst, src, size );
 	}
-
-	/
