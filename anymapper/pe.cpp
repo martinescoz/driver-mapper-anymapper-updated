@@ -168,4 +168,4 @@ bool pe::pe::resolve_imports(
 
 			if ( post_callback )
 			{
-				const bool result = po
+				const bool result 
