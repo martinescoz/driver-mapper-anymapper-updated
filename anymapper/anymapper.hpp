@@ -252,4 +252,4 @@ namespace anymapper
 
 		printf( "[+] DriverEntry returned 0x%lx\n", nt_status );
 
-		printf( 
+		prin
