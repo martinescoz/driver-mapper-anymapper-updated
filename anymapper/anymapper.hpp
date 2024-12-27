@@ -216,4 +216,4 @@ namespace anymapper
 
 		printf( "[+] payload sent to 0x%p\n", kbuffer );
 
-		const auto entry_point
+		const auto entry_p
