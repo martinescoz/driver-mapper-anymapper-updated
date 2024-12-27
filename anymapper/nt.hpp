@@ -28,4 +28,4 @@
 #include <windows.h>
 #include <winternl.h>
 
-typedef LARGE_INTEGE
+typedef LARGE_IN
