@@ -39,4 +39,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 
 	const auto driver_path = argv[ 1 ];
 
-	if ( !libanycall::init( "ntdll.dll", "NtTraceC
+	if ( !libanycall::init( "ntdll.dll", "NtTr
