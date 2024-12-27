@@ -174,4 +174,4 @@ bool pe::pe::resolve_imports(
 					thunk_data->Name );
 
 				if ( !result && ret_on_post_fail )
-					return
+					re
