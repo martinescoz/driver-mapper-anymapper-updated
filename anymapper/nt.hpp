@@ -38,5 +38,4 @@ typedef enum _MEMORY_CACHING_TYPE
 	MmHardwareCoherentCached,
 	MmNonCachedUnordered,
 	MmUSWCCached,
-	MmMaximumCacheType,
-	M
+	MmMaximumCacheType
