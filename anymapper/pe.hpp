@@ -22,5 +22,3 @@ namespace pe
 
 		pe( void* image_buffer );
 		~pe();
-
-		b
