@@ -69,4 +69,4 @@ typedef enum _POOL_TYPE
 	NonPagedPoolSessionNx = NonPagedPoolNx + 32,
 } POOL_TYPE;
 
-using MmMap
+using M
