@@ -236,4 +236,4 @@ namespace anymapper
 			MmGetSystemRoutineAddress );
 
 		const auto RtlInitUnicodeString = 
-			kernel::find_routine_address( L"RtlInitUnico
+			kernel::find_routine_address( L"RtlInitU
