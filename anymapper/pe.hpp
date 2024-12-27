@@ -16,4 +16,4 @@ namespace pe
 				std::string_view func_name );
 
 		void* image_base;
-		std:
+		
