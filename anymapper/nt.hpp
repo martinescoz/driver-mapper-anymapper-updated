@@ -80,5 +80,3 @@ using ExFreePool =
 
 using DriverEntry =
 	NTSTATUS( __fastcall* )( PVOID, PVOID );
-
-usi
