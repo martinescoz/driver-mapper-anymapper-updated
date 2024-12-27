@@ -51,5 +51,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 		return EXIT_FAILURE;
 	}
 
-    return EXIT_SUCCESS;
-}
+    return EXIT_SUCCES
