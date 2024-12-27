@@ -31,5 +31,4 @@
 
 #pragma comment( lib, "ntdll.lib" ) // RtlInitUnicodeString
 
-namespace kernel
-{
+namespace kern
