@@ -28,4 +28,4 @@ namespace pe
 		bool resolve_imports( 
 			pre_callback_t pre_callback, 
 			post_callback_t post_callback, 
-			bool 
+			b
