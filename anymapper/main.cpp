@@ -2,4 +2,4 @@
 
 	MIT License
 
-	Copyright (
+	Copyrig
