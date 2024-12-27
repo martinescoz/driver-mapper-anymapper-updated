@@ -82,4 +82,4 @@ using DriverEntry =
 	NTSTATUS( __fastcall* )( PVOID, PVOID );
 
 using MmGetSystemRoutineAddress =
-	PVOID( __fastcall* )( PUNICODE_STRIN
+	PVOID( __fastcall* )( PUNICODE_S
