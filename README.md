@@ -20,4 +20,4 @@ This project is WIP.
 
 # Todo
 
-- Fix: Can't make API calls from IAT nor
+- Fix: Can't make API calls from IAT
