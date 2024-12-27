@@ -75,5 +75,4 @@ using MmMapIoSpace = PVOID( __fastcall* )(
 using ExAllocatePoolWithTag = 
 	PVOID( __fastcall* )( POOL_TYPE, SIZE_T, ULONG );
 
-using ExFreePool =
-	v
+using ExFreePool 
