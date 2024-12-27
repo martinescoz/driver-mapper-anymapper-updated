@@ -72,4 +72,3 @@ typedef enum _POOL_TYPE
 using MmMapIoSpace = PVOID( __fastcall* )( 
 	PHYSICAL_ADDRESS, SIZE_T, MEMORY_CACHING_TYPE );
 
-usin
