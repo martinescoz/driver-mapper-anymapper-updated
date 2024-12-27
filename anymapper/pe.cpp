@@ -142,4 +142,4 @@ bool pe::pe::resolve_imports(
 		const auto module_name =
 			std::string(
 				reinterpret_cast< char* >(
-					( uint64_t )pdos_header + import_en
+					( uint64_t )pdos_header + impor
