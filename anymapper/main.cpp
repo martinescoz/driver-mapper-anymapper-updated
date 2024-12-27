@@ -5,4 +5,4 @@
 	Copyright (c) 2021 Kento Oki
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
-	of this software and associated documentation files (t
+	of this software and associated documentation file
