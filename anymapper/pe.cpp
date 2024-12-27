@@ -162,4 +162,4 @@ bool pe::pe::resolve_imports(
 
 		while ( first_thunk_original->u1.Function )
 		{
-			au
+	
