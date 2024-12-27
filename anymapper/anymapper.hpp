@@ -223,4 +223,4 @@ namespace anymapper
 			( uint64_t )kbuffer +
 			( uint64_t )entry_point_rva - 0;
 
-		printf( "[+] entry point rv
+		printf( "[+] entry poin
