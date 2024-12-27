@@ -28,5 +28,3 @@
 #include <iostream>
 
 #include "anymapper.hpp"
-
-in
