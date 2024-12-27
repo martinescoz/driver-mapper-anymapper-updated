@@ -33,4 +33,4 @@ namespace pe
 
 		bool valid() const noexcept;
 		bool is_dos_header_valid() const noexcept;
-		bool is_nt_headers_valid() const noexcep
+		bool is_nt_headers_valid() const noe
