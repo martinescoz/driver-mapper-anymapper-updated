@@ -146,4 +146,4 @@
     <ClCompile Include="pe.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\anycall\libanycall\
+    <ClInclude Include="..\..\anycall\libanyc
