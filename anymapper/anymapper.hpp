@@ -200,4 +200,4 @@ namespace anymapper
 
 		printf( "[+] resolving imports...\n" );
 
-		if ( !PE.resolve_imports( pre_callback, post_callback, true, t
+		if ( !PE.resolve_imports( pre_callback, post_callback, tru
