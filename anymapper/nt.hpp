@@ -37,4 +37,4 @@ typedef enum _MEMORY_CACHING_TYPE
 	MmWriteCombined,
 	MmHardwareCoherentCached,
 	MmNonCachedUnordered,
-	MmUSWCCac
+	MmUSW
