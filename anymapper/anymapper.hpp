@@ -210,5 +210,4 @@ namespace anymapper
 		printf( "[+] copying payload to the kernel buffer...\n" );
 
 		kernel::memcpy( 
-			kbuffer, 
-	
+			kbuffer
