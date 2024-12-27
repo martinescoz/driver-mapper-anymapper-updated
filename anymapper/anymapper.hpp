@@ -229,4 +229,3 @@ namespace anymapper
 		//
 		// MmGetSystemRoutineAddress's pointer
 		//
-		co
