@@ -29,4 +29,4 @@
 
 #include "../anycall/libanycall/libanycall.h"
 
-#pragma comment
+#pragma com
