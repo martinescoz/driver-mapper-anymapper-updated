@@ -198,6 +198,3 @@ bool pe::pe::is_dos_header_valid() const noexcept
 		return false;
 
 	return pdos_header->e_magic == IMAGE_DOS_SIGNATURE;
-}
-
-b
