@@ -8,6 +8,4 @@
 <img src="https://img.shields.io/github/license/kkent030315/anymapper?style=for-the-badge">
 </p>
 
-# anymapper
-
-x
+# anymappe
