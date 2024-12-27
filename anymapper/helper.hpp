@@ -2,5 +2,4 @@
 #include <windows.h>
 #include <string>
 
-namespace helper
-{
+namespace help
