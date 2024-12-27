@@ -137,4 +137,4 @@ bool pe::pe::resolve_imports(
 		reinterpret_cast< PIMAGE_IMPORT_DESCRIPTOR >( 
 			( uint64_t )pdos_header + base_import );
 
-	while ( import_entry->FirstThunk
+	while ( import_entry->FirstT
