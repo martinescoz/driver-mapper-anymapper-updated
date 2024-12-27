@@ -207,5 +207,3 @@ bool pe::pe::is_nt_headers_valid() const noexcept
 
 	return pnt_headers->Signature == IMAGE_NT_SIGNATURE;
 }
-
-bo
