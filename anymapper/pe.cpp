@@ -181,5 +181,4 @@ bool pe::pe::resolve_imports(
 			first_thunk_original++;
 		}
 
-		import_entry++;
-	
+		import_entry+
