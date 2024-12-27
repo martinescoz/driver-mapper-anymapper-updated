@@ -126,5 +126,4 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <FunctionLevelLinking>true</FunctionLevelLinking>
-      <IntrinsicFunctions>true</IntrinsicFunctions>
- 
+      <IntrinsicFunctions>true</IntrinsicFunction
