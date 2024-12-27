@@ -39,5 +39,4 @@ typedef enum _MEMORY_CACHING_TYPE
 	MmNonCachedUnordered,
 	MmUSWCCached,
 	MmMaximumCacheType,
-	MmNotMapped
-}
+	MmNotMapp
