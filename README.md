@@ -24,4 +24,4 @@ This project is WIP.
 
 # License
 
-MIT copyright Kento Oki \<hrn8
+MIT copyright Kento Oki \<
