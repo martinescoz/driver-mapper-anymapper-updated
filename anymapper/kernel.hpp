@@ -34,4 +34,4 @@
 namespace kernel
 {
 	//
-	// this pointer holds ntos
+	// this pointer holds 
