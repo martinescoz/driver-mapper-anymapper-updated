@@ -47,4 +47,4 @@ namespace kernel
 	{
 		if ( !ntoskrnl_memcpy )
 			ntoskrnl_memcpy = ( void* )
-			libanycall::find_ntoskr
+			libanycall::find_nt
