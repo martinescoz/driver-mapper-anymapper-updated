@@ -2,4 +2,4 @@
 
 	MIT License
 
-	Copyrig
+	Cop
