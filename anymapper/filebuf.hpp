@@ -15,4 +15,4 @@ namespace filebuf
 		if ( !fstream )
 			return false;
 
-		buffer.assign( 
+		buffer.assig
