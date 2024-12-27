@@ -48,4 +48,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 	if ( !anymapper::inject_driver( driver_path ) )
 	{
 		printf( "[!] failed to map driver\n" );
-		return EXIT
+		return 
