@@ -197,4 +197,4 @@ bool pe::pe::is_dos_header_valid() const noexcept
 	if ( !pdos_header )
 		return false;
 
-	return pdos_header->e_magic == IMAGE_DOS_SIG
+	return pdos_header->e_magic == IMAGE_DOS
