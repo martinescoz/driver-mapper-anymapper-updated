@@ -7,5 +7,4 @@ namespace filebuf
 {
 	bool copy_file_to_buffer( const std::wstring_view file_path, std::vector< uint8_t >& buffer )
 	{
-		if ( !std::filesystem::exists( file_path ) )
-	
+		if ( !std::filesystem::exists( file_path )
