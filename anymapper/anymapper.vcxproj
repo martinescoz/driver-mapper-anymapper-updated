@@ -134,4 +134,4 @@
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <EnableCOMDATFolding>true</Enabl
+      <EnableCOMDATFolding>true</E
