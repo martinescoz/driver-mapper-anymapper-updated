@@ -189,4 +189,4 @@ bool pe::pe::resolve_imports(
 
 bool pe::pe::valid() const noexcept
 {
-	retur
+	r
