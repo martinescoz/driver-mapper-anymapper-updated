@@ -163,5 +163,4 @@ bool pe::pe::resolve_imports(
 		while ( first_thunk_original->u1.Function )
 		{
 			auto thunk_data =
-				reinterpret_cast< PIMAGE_IMPORT_BY_NAME >(
-	
+				reinterpret_cast< PIMAGE_IMPORT_BY_NAME 
