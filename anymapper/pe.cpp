@@ -178,4 +178,3 @@ bool pe::pe::resolve_imports(
 			}
 
 			first_thunk++;
-			
