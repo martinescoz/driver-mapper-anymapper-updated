@@ -10,4 +10,4 @@ namespace filebuf
 		if ( !std::filesystem::exists( file_path ) )
 			return false;
 
-		std::ifstream fstream( fi
+		std::ifstream fstream
