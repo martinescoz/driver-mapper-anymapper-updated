@@ -50,4 +50,4 @@ namespace kernel
 			libanycall::find_ntoskrnl_export( "memcpy" );
 
 		libanycall::invoke<decltype( &memcpy )>
-			( ntoskrnl_memcpy, dst, src
+			( ntoskrnl_memcpy, dst,
