@@ -172,5 +172,3 @@ bool pe::pe::resolve_imports(
 					module_name,
 					&first_thunk_original->u1.Function,
 					thunk_data->Name );
-
-		
