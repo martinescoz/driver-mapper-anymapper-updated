@@ -27,4 +27,3 @@
 #include <windows.h>
 #include <iostream>
 
-#inc
