@@ -9,5 +9,3 @@ namespace filebuf
 	{
 		if ( !std::filesystem::exists( file_path ) )
 			return false;
-
-		s
