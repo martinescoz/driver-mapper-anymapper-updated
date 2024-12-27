@@ -166,4 +166,4 @@ bool pe::pe::resolve_imports(
 				reinterpret_cast< PIMAGE_IMPORT_BY_NAME >(
 					( uint64_t )pdos_header + first_thunk_original->u1.AddressOfData );
 
-			if ( pos
+			if (
