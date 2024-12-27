@@ -286,4 +286,4 @@ node_modules/
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
-**/*.DesktopC
+**/*.Desk
