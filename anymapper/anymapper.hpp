@@ -249,5 +249,3 @@ namespace anymapper
 				( void* )entry_point_addr, 
 				( PVOID )MmGetSystemRoutineAddress, // pass MmGetSystemRoutineAddress pointer to 2nd parameter
 				( PVOID )RtlInitUnicodeString );    // usually RegistryPath but we don't use
-
-		
