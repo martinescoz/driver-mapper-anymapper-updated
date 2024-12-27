@@ -189,4 +189,4 @@ bool pe::pe::resolve_imports(
 
 bool pe::pe::valid() const noexcept
 {
-	return this->is_dos_header_valid() && this->is_nt_headers
+	return this->is_dos_header_valid() && this->is_nt_hea
