@@ -144,4 +144,4 @@ bool pe::pe::resolve_imports(
 				reinterpret_cast< char* >(
 					( uint64_t )pdos_header + import_entry->Name ) );
 
-		if ( pre_c
+		if ( p
