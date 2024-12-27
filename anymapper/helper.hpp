@@ -5,4 +5,4 @@
 namespace helper
 {
 	//
-	// https://stackoverflow.com/questions/215
+	// https://stackoverflow.com/questions
