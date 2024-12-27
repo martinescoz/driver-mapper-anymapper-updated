@@ -141,4 +141,3 @@ bool pe::pe::resolve_imports(
 	{
 		const auto module_name =
 			std::string(
-			
