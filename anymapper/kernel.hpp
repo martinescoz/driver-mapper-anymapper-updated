@@ -54,4 +54,4 @@ namespace kernel
 	}
 
 	//
-	// find system routin
+	// find system ro
