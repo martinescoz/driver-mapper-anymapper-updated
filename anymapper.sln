@@ -8,4 +8,4 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libanycall", "..\anycall\libanycall\libanycall.vcxproj", "{4C9429AE-EAC9-473E-B8E0-0ADA1A2A7DDF}"
 EndProject
 Global
-	GlobalSection(SolutionC
+	GlobalSection(Solut
