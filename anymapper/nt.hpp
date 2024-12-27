@@ -51,4 +51,4 @@ typedef enum _POOL_TYPE
 	DontUseThisType,
 	NonPagedPoolCacheAligned = NonPagedPool + 4,
 	PagedPoolCacheAligned,
-	NonPagedPoolC
+	NonPagedP
