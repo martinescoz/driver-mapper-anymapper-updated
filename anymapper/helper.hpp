@@ -13,4 +13,4 @@ namespace helper
 		wchar_t* wszTo = new wchar_t[ str.length() + 1 ];
 		wszTo[ str.size() ] = L'\0';
 		MultiByteToWideChar( CP_ACP, 0, str.c_str(), -1, wszTo, ( int )str.length() );
-		wstrTo = wszTo;
+		wstrTo = ws
