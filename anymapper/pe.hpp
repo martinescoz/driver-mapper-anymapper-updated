@@ -15,5 +15,4 @@ namespace pe
 				void* func_addr,
 				std::string_view func_name );
 
-		void* image_base;
-		
+		void* image_base
