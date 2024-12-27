@@ -140,4 +140,4 @@
       <AdditionalDependencies>libanycall64.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>$(OutDir)</AdditionalLibraryDirectories>
     </Link>
-  </ItemDefinitionGro
+  </ItemDefinitio
