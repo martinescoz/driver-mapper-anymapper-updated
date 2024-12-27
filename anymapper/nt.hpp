@@ -55,4 +55,4 @@ typedef enum _POOL_TYPE
 	MaxPoolType,
 	NonPagedPoolBase = 0,
 	NonPagedPoolBaseMustSucceed = NonPagedPoolBase + 2,
-	NonPaged
+	NonP
