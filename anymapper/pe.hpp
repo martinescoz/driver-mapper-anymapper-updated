@@ -21,4 +21,4 @@ namespace pe
 		PIMAGE_NT_HEADERS pnt_headers;
 
 		pe( void* image_buffer );
-		~pe();
+		~pe
