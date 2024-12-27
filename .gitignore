@@ -249,4 +249,4 @@ Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 ServiceFabricBackup/
-*.rptproj.bak
+*.rptproj
