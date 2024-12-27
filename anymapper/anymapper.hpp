@@ -203,4 +203,3 @@ namespace anymapper
 		if ( !PE.resolve_imports( pre_callback, post_callback, true, true ) )
 		{
 			printf( "[!] \033[0;101;30mfailed to resolve imports\033[0m\n" );
-			
