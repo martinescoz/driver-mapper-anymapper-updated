@@ -16,5 +16,3 @@ namespace helper
 		wstrTo = wszTo;
 		delete[] wszTo;
 		return wstrTo;
-	}
-}
