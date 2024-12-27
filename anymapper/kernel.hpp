@@ -37,4 +37,4 @@ namespace kernel
 	// this pointer holds ntoskrnl's exported memcpy
 	// not rva, absolute address
 	//
-	inline void* n
+	inline voi
