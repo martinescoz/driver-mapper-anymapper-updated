@@ -13,4 +13,4 @@ namespace pe
 			bool( * )( 
 				std::string_view module_name,
 				void* func_addr,
-				std::stri
+				std::
