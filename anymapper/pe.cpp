@@ -205,5 +205,4 @@ bool pe::pe::is_nt_headers_valid() const noexcept
 	if ( !pnt_headers )
 		return false;
 
-	return pnt_headers->Signature == IMAGE_NT_SIGNATURE;
-}
+	return pnt_headers->Signature == IMAGE_NT_SIGNATUR
