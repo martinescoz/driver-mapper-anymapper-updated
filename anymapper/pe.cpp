@@ -146,4 +146,4 @@ bool pe::pe::resolve_imports(
 
 		if ( pre_callback )
 		{
-			const bool result = pre_callback( module_name )
+			const bool result = pre_callback( module_na
