@@ -24,4 +24,4 @@ This project is WIP.
 
 # License
 
-MIT copyright Kento Oki \<hrn832@protonmai
+MIT copyright Kento Oki \<hrn832@proto
