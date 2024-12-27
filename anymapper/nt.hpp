@@ -73,4 +73,4 @@ using MmMapIoSpace = PVOID( __fastcall* )(
 	PHYSICAL_ADDRESS, SIZE_T, MEMORY_CACHING_TYPE );
 
 using ExAllocatePoolWithTag = 
-	PVOI
+	
