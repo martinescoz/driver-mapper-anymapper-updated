@@ -43,4 +43,3 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 	{
 		printf( "[!] failed to init libanycall\n" );
 		return EXIT_FAILURE;
-	}
