@@ -145,5 +145,4 @@ bool pe::pe::resolve_imports(
 					( uint64_t )pdos_header + import_entry->Name ) );
 
 		if ( pre_callback )
-		{
 		
