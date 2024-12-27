@@ -24,4 +24,4 @@ This project is WIP.
 
 # License
 
-MIT copyri
+MIT co
