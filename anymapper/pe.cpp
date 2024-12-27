@@ -173,4 +173,4 @@ bool pe::pe::resolve_imports(
 					&first_thunk_original->u1.Function,
 					thunk_data->Name );
 
-				if ( !
+				if
