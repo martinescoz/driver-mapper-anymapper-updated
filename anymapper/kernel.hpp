@@ -49,4 +49,4 @@ namespace kernel
 			ntoskrnl_memcpy = ( void* )
 			libanycall::find_ntoskrnl_export( "memcpy" );
 
-		libanycall
+		libany
