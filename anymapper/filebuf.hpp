@@ -16,4 +16,3 @@ namespace filebuf
 			return false;
 
 		buffer.assign( 
-			s
