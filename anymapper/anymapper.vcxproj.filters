@@ -33,5 +33,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="pe.hpp">
-      <Filter>Header Files</Filter>
- 
+      <Filter>Header Files</Filte
