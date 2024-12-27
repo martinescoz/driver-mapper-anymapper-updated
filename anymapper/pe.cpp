@@ -169,5 +169,4 @@ bool pe::pe::resolve_imports(
 			if ( post_callback )
 			{
 				const bool result = post_callback(
-					module_name,
-	
+					module_nam
