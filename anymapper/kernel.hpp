@@ -24,4 +24,4 @@
 
 */
 
-#pragma once
+#pragma o
