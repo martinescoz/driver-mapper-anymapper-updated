@@ -4,4 +4,4 @@
 
 	Copyright (c) 2021 Kento Oki
 
-	Permission is hereby granted
+	Permission is hereby gra
