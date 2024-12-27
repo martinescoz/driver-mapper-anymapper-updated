@@ -37,4 +37,3 @@ namespace pe
 		bool is_64bit_image() const noexcept;
 
 		bool valid_ptr( void* ptr ) const;
-	pr
