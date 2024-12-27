@@ -40,4 +40,3 @@
     </ClInclude>
     <ClInclude Include="filebuf.hpp">
       <Filter>Header Files</Filter>
-    
