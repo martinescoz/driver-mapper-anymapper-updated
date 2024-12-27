@@ -160,4 +160,4 @@ bool pe::pe::resolve_imports(
 			reinterpret_cast< PIMAGE_THUNK_DATA64 >(
 				( uint64_t )pdos_header + import_entry->OriginalFirstThunk );
 
-		while ( first_thunk_original->u1.Func
+		while ( first_thunk_original->u1.
