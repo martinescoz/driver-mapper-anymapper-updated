@@ -202,4 +202,3 @@ namespace anymapper
 
 		if ( !PE.resolve_imports( pre_callback, post_callback, true, true ) )
 		{
-			p
