@@ -41,4 +41,4 @@ namespace kernel
 
 	//
 	// memcpy of kernel virtual memory
-	// invoke memcpy inside ntoskrnl
+	// invoke memcpy inside ntosk
