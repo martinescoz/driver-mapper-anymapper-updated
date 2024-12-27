@@ -24,4 +24,4 @@ namespace pe
 		~pe();
 
 		bool fix_sections( void* raw );
-		bool relocate_image( uint64_t delta ) const
+		bool relocate_image( uint64_t delta ) c
