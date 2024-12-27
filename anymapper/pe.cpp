@@ -200,4 +200,4 @@ bool pe::pe::is_dos_header_valid() const noexcept
 	return pdos_header->e_magic == IMAGE_DOS_SIGNATURE;
 }
 
-bool pe::pe::is_nt_headers_valid() const noexcept
+bool pe::pe::is_nt_headers_valid() const noex
