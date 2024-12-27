@@ -33,4 +33,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 {
 	if ( argc < 2 )
 	{
-		printf( "[=] usage: bin.exe [driver_path]\n" );
+		printf( "[=] usage: bin.exe [driver_path]\n"
