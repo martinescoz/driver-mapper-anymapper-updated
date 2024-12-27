@@ -202,4 +202,4 @@ namespace anymapper
 
 		if ( !PE.resolve_imports( pre_callback, post_callback, true, true ) )
 		{
-			printf( "[!] \033[0;101;30mfailed
+			printf( "[!] \033[0;101;30mfa
