@@ -45,4 +45,4 @@ int wmain( int argc, const wchar_t** argv, const wchar_t** envp )
 		return EXIT_FAILURE;
 	}
 
-	if ( !anymapper::injec
+	if ( !anymapper::i
