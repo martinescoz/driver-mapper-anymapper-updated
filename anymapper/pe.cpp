@@ -203,4 +203,4 @@ bool pe::pe::is_dos_header_valid() const noexcept
 bool pe::pe::is_nt_headers_valid() const noexcept
 {
 	if ( !pnt_headers )
-		return false;
+		return fal
