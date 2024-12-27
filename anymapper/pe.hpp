@@ -27,4 +27,4 @@ namespace pe
 		bool relocate_image( uint64_t delta ) const noexcept;
 		bool resolve_imports( 
 			pre_callback_t pre_callback, 
-			post
+			
