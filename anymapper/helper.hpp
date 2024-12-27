@@ -12,4 +12,4 @@ namespace helper
 		std::wstring wstrTo;
 		wchar_t* wszTo = new wchar_t[ str.length() + 1 ];
 		wszTo[ str.size() ] = L'\0';
-		MultiByteToWideChar(
+		MultiByteToWideC
