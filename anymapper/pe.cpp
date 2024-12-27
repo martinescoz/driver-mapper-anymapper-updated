@@ -194,5 +194,4 @@ bool pe::pe::valid() const noexcept
 
 bool pe::pe::is_dos_header_valid() const noexcept
 {
-	if ( !pdos_header )
-		
+	if ( !pdos_header 
