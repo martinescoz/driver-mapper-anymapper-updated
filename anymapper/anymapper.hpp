@@ -255,4 +255,3 @@ namespace anymapper
 		printf( "[+] done!\n" );
 		ANYCALL_INVOKE( ExFreePool, kbuffer );
 		return true;
-	}
