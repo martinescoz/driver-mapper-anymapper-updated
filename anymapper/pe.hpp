@@ -14,5 +14,3 @@ namespace pe
 				std::string_view module_name,
 				void* func_addr,
 				std::string_view func_name );
-
-		
