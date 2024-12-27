@@ -248,4 +248,4 @@ namespace anymapper
 			libanycall::invoke< DriverEntry >(
 				( void* )entry_point_addr, 
 				( PVOID )MmGetSystemRoutineAddress, // pass MmGetSystemRoutineAddress pointer to 2nd parameter
-				( PVOID )RtlInitUnicodeString );    // usually RegistryP
+				( PVOID )RtlInitUnicodeString );    // usually Regis
