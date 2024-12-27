@@ -20,4 +20,4 @@ namespace pe
 		PIMAGE_DOS_HEADER pdos_header;
 		PIMAGE_NT_HEADERS pnt_headers;
 
-		pe( void* image_buf
+		pe( void* image
