@@ -5,4 +5,4 @@
 namespace helper
 {
 	//
-	// https://stackoverflow.com/questions/215963/how-do-y
+	// https://stackoverflow.com/questions/215963/how-
