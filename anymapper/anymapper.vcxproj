@@ -154,4 +154,4 @@
     <ClInclude Include="nt.hpp" />
     <ClInclude Include="pe.hpp" />
   </ItemGroup>
-  <Import Project="$(VCTargetsPath)\Micros
+  <Import Project="$(VCTargetsPath)\Mi
