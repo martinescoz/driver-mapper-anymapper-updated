@@ -26,4 +26,4 @@
     <ClInclude Include="anymapper.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\anycall\libanycall\libanyca
+    <ClInclude Include="..\..\anycall\libanycall\liba
