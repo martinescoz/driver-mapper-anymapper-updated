@@ -39,4 +39,3 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="filebuf.hpp">
-    
