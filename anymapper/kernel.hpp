@@ -55,5 +55,4 @@ namespace kernel
 
 	//
 	// find system routine by MmGetSystemRoutineAddress
-	//
 	
