@@ -38,5 +38,3 @@ namespace kernel
 	// not rva, absolute address
 	//
 	inline void* ntoskrnl_memcpy = {};
-
-	/
