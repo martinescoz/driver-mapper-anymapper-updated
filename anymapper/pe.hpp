@@ -29,4 +29,4 @@ namespace pe
 			pre_callback_t pre_callback, 
 			post_callback_t post_callback, 
 			bool ret_on_pre_fail, 
-			bool ret_on_post_fail ) const noexc
+			bool ret_on_post_fail ) const n
