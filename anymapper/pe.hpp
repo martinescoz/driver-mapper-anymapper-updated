@@ -34,4 +34,4 @@ namespace pe
 		bool valid() const noexcept;
 		bool is_dos_header_valid() const noexcept;
 		bool is_nt_headers_valid() const noexcept;
-		bool is_64bit_image() const
+		bool is_64bit_image() c
