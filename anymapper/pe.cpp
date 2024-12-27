@@ -161,5 +161,4 @@ bool pe::pe::resolve_imports(
 				( uint64_t )pdos_header + import_entry->OriginalFirstThunk );
 
 		while ( first_thunk_original->u1.Function )
-		{
 	
