@@ -26,4 +26,4 @@ namespace pe
 		bool fix_sections( void* raw );
 		bool relocate_image( uint64_t delta ) const noexcept;
 		bool resolve_imports( 
-			pre_callback_t pr
+			pre_callback_
