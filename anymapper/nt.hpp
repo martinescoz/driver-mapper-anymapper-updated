@@ -28,4 +28,4 @@
 #include <windows.h>
 #include <winternl.h>
 
-typedef LARGE_INTEGER PHYSICAL_ADDRE
+typedef LARGE_INTEGER PHYSICAL_A
