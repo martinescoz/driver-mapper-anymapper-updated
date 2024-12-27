@@ -58,4 +58,4 @@ typedef enum _POOL_TYPE
 	NonPagedPoolBaseCacheAligned = NonPagedPoolBase + 4,
 	NonPagedPoolBaseCacheAlignedMustS = NonPagedPoolBase + 6,
 	NonPagedPoolSession = 32,
-	PagedPoolSession
+	PagedPoolSes
