@@ -31,4 +31,4 @@ namespace pe
 			bool ret_on_pre_fail, 
 			bool ret_on_post_fail ) const noexcept;
 
-		bool
+		
