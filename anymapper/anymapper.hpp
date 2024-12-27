@@ -235,4 +235,4 @@ namespace anymapper
 		printf( "[+] MmGetSystemRoutineAddress @ 0x%llX\n", 
 			MmGetSystemRoutineAddress );
 
-		const auto RtlInitUnicodeS
+		const auto RtlInitUnic
