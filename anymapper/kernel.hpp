@@ -34,4 +34,4 @@
 namespace kernel
 {
 	//
-	// this pointer holds ntoskrnl
+	// this pointer holds ntos
