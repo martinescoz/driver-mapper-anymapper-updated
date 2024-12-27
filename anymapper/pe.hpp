@@ -2,5 +2,3 @@
 #include <windows.h>
 #include <string>
 #include <cstdint>
-
-nam
