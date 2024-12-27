@@ -319,4 +319,4 @@ __pycache__/
 # BizTalk build output
 *.btp.cs
 *.btm.cs
-*.odx.cs
+*.od
