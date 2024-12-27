@@ -246,4 +246,4 @@ namespace anymapper
 		//
 		const NTSTATUS nt_status =
 			libanycall::invoke< DriverEntry >(
-				( void* )entry_point_ad
+				( void* )entry_poin
