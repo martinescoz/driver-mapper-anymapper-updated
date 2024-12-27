@@ -44,4 +44,4 @@ typedef enum _MEMORY_CACHING_TYPE
 
 typedef enum _POOL_TYPE
 {
-	NonPagedPool,
+	NonPagedPo
