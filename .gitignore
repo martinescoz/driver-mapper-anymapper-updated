@@ -260,5 +260,4 @@ ServiceFabricBackup/
 *.rdl.data
 *.bim.layout
 *.bim_*.settings
-*.rptproj.rsuser
-*
+*.rptproj.rsus
