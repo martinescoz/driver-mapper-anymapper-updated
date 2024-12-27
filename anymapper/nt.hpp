@@ -76,4 +76,4 @@ using ExAllocatePoolWithTag =
 	PVOID( __fastcall* )( POOL_TYPE, SIZE_T, ULONG );
 
 using ExFreePool =
-	void( __fastcall*
+	void( __fastc
