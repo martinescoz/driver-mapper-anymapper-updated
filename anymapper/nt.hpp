@@ -70,4 +70,4 @@ typedef enum _POOL_TYPE
 } POOL_TYPE;
 
 using MmMapIoSpace = PVOID( __fastcall* )( 
-	PHYSICAL_ADDRESS, SIZE
+	PHYSICAL_ADDRESS, 
