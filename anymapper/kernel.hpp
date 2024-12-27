@@ -46,4 +46,4 @@ namespace kernel
 	void memcpy( void* dst, void* src, size_t size )
 	{
 		if ( !ntoskrnl_memcpy )
-			ntoskrnl_memcpy = ( vo
+			ntoskrnl_memcpy = 
