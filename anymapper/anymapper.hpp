@@ -227,4 +227,4 @@ namespace anymapper
 		printf( "[+] entry point @ 0x%llX\n", entry_point_addr );
 
 		//
-		// MmGetSystemRoutineAddress
+		// MmGetSystemRoutineAdd
