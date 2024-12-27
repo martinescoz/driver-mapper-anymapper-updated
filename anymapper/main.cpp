@@ -1,3 +1,3 @@
 /*
 
-	MIT Licen
+	MIT L
