@@ -7,4 +7,4 @@ namespace pe
 {
 	class pe
 	{
-	public
+	pu
