@@ -24,4 +24,4 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anymapper.hpp">
-      <Filter>Header Files
+      <Filter>Header F
