@@ -46,4 +46,4 @@ typedef enum _POOL_TYPE
 {
 	NonPagedPool,
 	NonPagedPoolExecute = NonPagedPool,
-	PagedP
+	Pa
