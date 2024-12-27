@@ -4,5 +4,3 @@
 #include <fstream>
 
 namespace filebuf
-{
-	b
