@@ -24,4 +24,4 @@ namespace pe
 		~pe();
 
 		bool fix_sections( void* raw );
-		bool reloca
+		bool re
