@@ -139,4 +139,4 @@ bool pe::pe::resolve_imports(
 
 	while ( import_entry->FirstThunk )
 	{
-		cons
+		
