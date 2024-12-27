@@ -204,4 +204,4 @@ namespace anymapper
 		{
 			printf( "[!] \033[0;101;30mfailed to resolve imports\033[0m\n" );
 			ANYCALL_INVOKE( ExFreePool, kbuffer );
-			return fal
+			return
