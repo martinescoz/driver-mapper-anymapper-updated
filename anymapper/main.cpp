@@ -2,4 +2,3 @@
 
 	MIT License
 
-	Cop
