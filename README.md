@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 W
+x
