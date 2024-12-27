@@ -232,4 +232,4 @@ namespace anymapper
 		const auto MmGetSystemRoutineAddress = 
 			kernel::find_routine_address( L"MmGetSystemRoutineAddress" );
 
-		printf( "[+] MmGetSystemRoutineAdd
+		printf( "[+] MmGetSystemRoutin
