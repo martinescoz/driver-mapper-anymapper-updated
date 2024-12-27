@@ -12,4 +12,4 @@ namespace filebuf
 
 		std::ifstream fstream( file_path, std::ios::binary );
 
-		if (
+		
