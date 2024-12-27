@@ -5,4 +5,4 @@
 namespace helper
 {
 	//
-	// https://stackoverflow.com/quest
+	// https://stackoverflow.com/q
