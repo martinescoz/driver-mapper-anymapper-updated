@@ -22,4 +22,4 @@ namespace filebuf
 		fstream.close();
 		return true;
 	}
-} // names
+} // n
