@@ -60,4 +60,4 @@ namespace kernel
 	{
 		UNICODE_STRING routine_name_us;
 		RtlInitUnicodeString( &routine_name_us, routine_name.data() );
-		return ( uint6
+		return ( u
