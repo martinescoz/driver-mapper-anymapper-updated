@@ -14,4 +14,4 @@ namespace helper
 		wszTo[ str.size() ] = L'\0';
 		MultiByteToWideChar( CP_ACP, 0, str.c_str(), -1, wszTo, ( int )str.length() );
 		wstrTo = wszTo;
-		delete[] wszT
+		delete[] 
