@@ -30,4 +30,4 @@
 
 typedef LARGE_INTEGER PHYSICAL_ADDRESS;
 
-typedef enum _MEMOR
+typedef enum _M
