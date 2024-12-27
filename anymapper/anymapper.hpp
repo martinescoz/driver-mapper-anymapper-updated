@@ -219,4 +219,4 @@ namespace anymapper
 		const auto entry_point_rva = 
 			PE.pnt_headers->OptionalHeader.AddressOfEntryPoint;
 
-		const auto entry_point_add
+		const auto entry_point
