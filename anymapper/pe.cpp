@@ -140,4 +140,3 @@ bool pe::pe::resolve_imports(
 	while ( import_entry->FirstThunk )
 	{
 		const auto module_name =
-			
