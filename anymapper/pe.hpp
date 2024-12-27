@@ -5,5 +5,4 @@
 
 namespace pe
 {
-	class pe
-	{
+	class p
