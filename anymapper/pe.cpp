@@ -210,4 +210,3 @@ bool pe::pe::is_nt_headers_valid() const noexcept
 
 bool pe::pe::is_64bit_image() const noexcept
 {
-	re
