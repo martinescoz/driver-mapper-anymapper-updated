@@ -53,5 +53,4 @@ namespace kernel
 			( ntoskrnl_memcpy, dst, src, size );
 	}
 
-	//
 	/
