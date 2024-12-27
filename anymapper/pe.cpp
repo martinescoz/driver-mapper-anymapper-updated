@@ -184,4 +184,4 @@ bool pe::pe::resolve_imports(
 		import_entry++;
 	}
 
-	return t
+	retu
