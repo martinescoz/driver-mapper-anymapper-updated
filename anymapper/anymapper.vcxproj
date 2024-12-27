@@ -138,5 +138,4 @@
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>libanycall64.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>$(OutDir)</AdditionalLibraryDirectories>
- 
+      <AdditionalLibraryDirectories>$(OutDir)</AdditionalLibraryDirectorie
