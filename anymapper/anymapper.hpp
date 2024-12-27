@@ -247,4 +247,4 @@ namespace anymapper
 		const NTSTATUS nt_status =
 			libanycall::invoke< DriverEntry >(
 				( void* )entry_point_addr, 
-				( PVOID )MmGetSystemRoutineAddress, // pass MmGetSystemRoutineAddress pointer to 2nd pa
+				( PVOID )MmGetSystemRoutineAddress, // pass MmGetSystemRoutineAddress pointer to 2n
