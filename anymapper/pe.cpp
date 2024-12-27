@@ -192,5 +192,4 @@ bool pe::pe::valid() const noexcept
 	return this->is_dos_header_valid() && this->is_nt_headers_valid();
 }
 
-bool pe::pe::is_dos_header_valid() const noexcept
-{
+bool pe::pe::is_dos_header_valid() const noexce
