@@ -4,4 +4,4 @@
 
 	Copyright (c) 2021 Kento Oki
 
-	Permission i
+	Permissi
