@@ -10,4 +10,4 @@
 
 # anymapper
 
-x64 Windows kerne
+x64 Windows k
