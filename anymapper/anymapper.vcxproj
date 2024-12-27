@@ -150,4 +150,4 @@
     <ClInclude Include="anymapper.hpp" />
     <ClInclude Include="filebuf.hpp" />
     <ClInclude Include="helper.hpp" />
-    <ClInclude Inc
+    <ClInclude
