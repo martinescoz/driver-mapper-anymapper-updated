@@ -152,4 +152,4 @@ bool pe::pe::resolve_imports(
 				return result;
 		}
 
-		auto first_thu
+		auto first
