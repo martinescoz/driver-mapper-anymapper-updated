@@ -259,4 +259,4 @@ ServiceFabricBackup/
 # Business Intelligence projects
 *.rdl.data
 *.bim.layout
-*.bim_*.setting
+*.bim_*.set
