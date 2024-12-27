@@ -289,5 +289,4 @@ node_modules/
 **/*.DesktopClient/GeneratedArtifacts
 **/*.DesktopClient/ModelManifest.xml
 **/*.Server/GeneratedArtifacts
-**/*.Server/ModelManifest.xml
-_
+**/*.Server/ModelManifest.x
