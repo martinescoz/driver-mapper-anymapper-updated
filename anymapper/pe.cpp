@@ -180,5 +180,3 @@ bool pe::pe::resolve_imports(
 			first_thunk++;
 			first_thunk_original++;
 		}
-
-		i
