@@ -154,4 +154,4 @@ bool pe::pe::resolve_imports(
 
 		auto first_thunk =
 			reinterpret_cast< PIMAGE_THUNK_DATA64 >(
-				( uint64_t )pdos_header + import_entry->Fir
+				( uint64_t )pdos_header + import_entry-
