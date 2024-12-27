@@ -235,4 +235,3 @@ namespace anymapper
 		printf( "[+] MmGetSystemRoutineAddress @ 0x%llX\n", 
 			MmGetSystemRoutineAddress );
 
-		co
