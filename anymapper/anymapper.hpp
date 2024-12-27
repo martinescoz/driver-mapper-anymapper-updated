@@ -233,4 +233,4 @@ namespace anymapper
 			kernel::find_routine_address( L"MmGetSystemRoutineAddress" );
 
 		printf( "[+] MmGetSystemRoutineAddress @ 0x%llX\n", 
-			MmGetSystemRoutineAddress 
+			MmGetSystemRoutineAddr
