@@ -242,4 +242,4 @@ namespace anymapper
 			RtlInitUnicodeString );
 
 		//
-		// invoke driver's entry p
+		// invoke driver's ent
