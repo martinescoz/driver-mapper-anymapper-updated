@@ -28,4 +28,3 @@
 #include <windows.h>
 #include <winternl.h>
 
-type
