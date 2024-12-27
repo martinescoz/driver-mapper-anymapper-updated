@@ -32,4 +32,4 @@ typedef LARGE_INTEGER PHYSICAL_ADDRESS;
 
 typedef enum _MEMORY_CACHING_TYPE
 {
-	MmNonCache
+	MmNonC
