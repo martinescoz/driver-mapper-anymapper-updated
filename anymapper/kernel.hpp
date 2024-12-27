@@ -58,4 +58,4 @@ namespace kernel
 	//
 	uint64_t find_routine_address( const std::wstring_view routine_name )
 	{
-		UNICODE_STRIN
+		UNICODE_S
