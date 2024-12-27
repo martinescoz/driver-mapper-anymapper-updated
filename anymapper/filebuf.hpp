@@ -17,4 +17,4 @@ namespace filebuf
 
 		buffer.assign( 
 			std::istreambuf_iterator<char>( fstream ), 
-			std::istreambuf_it
+			std::istreambu
