@@ -225,5 +225,3 @@ namespace anymapper
 
 		printf( "[+] entry point rva: 0x%lX\n", entry_point_rva );
 		printf( "[+] entry point @ 0x%llX\n", entry_point_addr );
-
-		/
